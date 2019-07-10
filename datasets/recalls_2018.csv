@@ -1,0 +1,126 @@
+Recall Number,Open Date,Class,Pounds Recalled,Product,Problem Type
+001-2018,"Jan 4, 2018",I,"4,068",Pepperoni Sticks,Extraneous Material
+002-2018,"Jan 5, 2018",I,430,RTE Tasso Spicy Ham,Processing Defect
+003-2018,"Jan 18, 2018",III,743,RTE Chicken Salad,Other
+004-2018,"Jan 18, 2018",I,289,RTE Chicken Salad Products,Undeclared Allergen
+005-2018,"Jan 23, 2018",I,530,CHICKEN TENDER FRITTER,Undeclared Allergen
+006-2018,"Jan 24, 2018",I,"3,420",Meatball product,Listeria monocytogenes
+007-2018,"Feb 1, 2018",I,"1,391",RTE beef jerky,Undeclared Allergen
+008-2018,"Feb 6, 2018",I,"4,618",Raw Intact Pork,Other
+009-2018,"Feb 6, 2018",I,"4,202",Pork Soup with Rendered Pork Fat,Processing Defect
+010-2018,"Feb 14, 2018",I,"19,757",Chicken Empanada and Pork Empanada,Undeclared Allergen
+011-2018,"Feb 16, 2018",I,"101,310",Chicken Patty Products,Extraneous Material
+012-2018,"Feb 20, 2018",I,167,Frozen Beef Products,Undeclared Allergen
+013-2018,"Feb 21, 2018",I,"20,630",Chicken salad,Salmonella
+014-2018,"Feb 21, 2018",I,572,Pork and Shrimp Dumplings,Undeclared Allergen
+015-2018,"Mar 1, 2018",I,"1,925",Raw Turkey Sausage,Undeclared Allergen
+016-2018,"Mar 1, 2018",I,"4,050",Chicken sausages,Undeclared Allergen
+017-2018,"Mar 2, 2018",I,0,Ready-To-Eat Meat Products,Other
+018-2018,"Mar 2, 2018",I,"3,946",Salami,Listeria monocytogenes
+019-2018,"Mar 3, 2018",I,"14,806",Raw Ground Beef and Pork Products,E. coli
+020-2018,"Mar 9, 2018",II,"69,016","Raw, Intact Siluriformes",Residue
+021-2018,"Mar 15, 2018",I,"109,603",Pork Sausage Product,Extraneous Material
+022-2018,"Mar 15, 2018",I,"53,154",Raw Non-Intact Beef Products,Salmonella
+023-2018,"Mar 16, 2018",I,"484,800",Raw Beef Product,Salmonella
+024-2018,"Mar 20, 2018",I,"4,130",Mickey Brown's Beef Burritos,Other
+025-2018,"Mar 21, 2018",I,"1,238",Beef Jerky Products,Processing Defect
+026-2018,"Mar 28, 2018",I,"96,384",Thermally Processed Chicken,Extraneous Material
+027-2018,"Mar 29, 2018",I,0,Frozen meat and poultry products,Other
+028-2018,"Mar 31, 2018",I,"7,146",Raw Beef Products,Other
+029-2018,"Apr 3, 2018",I,130,Curry Chicken Salad,Undeclared Allergen
+030-2018,"Apr 7, 2018",II,"14,525",Bar-B-Q Sauce with Pulled Beef,Extraneous Material
+031-2018,"Apr 11, 2018",I,"135,159",Banquet Family Salisbury Steak with,Extraneous Material
+032-2018,"Apr 11, 2018",II,"119,480",RTE beef pattys,Extraneous Material
+033-2018,"Apr 14, 2018",I,"8,757",RTE Poultry and Meat Salad Products,E. coli
+034-2018,"Apr 28, 2018",I,"32,479",Armour Dried Sliced Beef,Processing Defect
+035-2018,"May 2, 2018",II,"35,464",Ground Beef,Extraneous Material
+036-2018,"May 4, 2018",I,"49,558",FCNSS Meat Sausage Products,Extraneous Material
+037-2018,"May 16, 2018",II,720,Chicken Tortilla Soup,Undeclared Allergen
+038-2018,"May 16, 2018",II,"308,430",RTE sausage and hot dog products,Undeclared Allergen
+039-2018,"May 18, 2018",I,"8,535",Hempler's Family Classic Pepperoni,Undeclared Allergen
+040-2018,"May 23, 2018",III,"1,881",Calzone,Other
+041-2018,"May 26, 2018",I,"228,614",Canned Pork and Chicken products,Extraneous Material
+042-2018,"May 31, 2018",II,"50,706",Egg and Pork Sausage Burritos,Extraneous Material
+043-2018,"May 31, 2018",II,"18,390",RTE Smoked Pork and Beef Sausage,Extraneous Material
+044-2018,"Jun 1, 2018",I,"15,315","Various Raw, Frozen Beef, Pork, Poultry and Siluriformes",Other
+045-2018,"Jun 4, 2018",I,"34,400",RTE ground beef patty products,Extraneous Material
+046-2018,"Jun 8, 2018",I,738,Meat Raviolis,Other
+047-2018,"Jun 8, 2018",II,"3,120",NRTE Breaded Poultry Products,Extraneous Material
+048-2018,"Jun 12, 2018",II,"410,985",Smoked Beef Sausages,Other
+049-2018,"Jun 13, 2018",I,142,RTE Sliced Ham,Other
+050-2018,"Jun 15, 2018",II,"28,346","Poultry, Pork, and Beef products",Other
+051-2018,"Jun 20, 2018",I,489,Raw Ground Beef,E. coli
+052-2018,"Jun 21, 2018",II,"3,592",Pastrami,Processing Defect
+053-2018,"Jun 22, 2018",I,"258,121",Pork Lard,Other
+054-2018,"Jun 25, 2018",III,"4,944",Black Forest Ham,Other
+055-2018,"Jun 25, 2018",I,"13,554",Jerky and Meat Sticks,Other
+056-2018,"Jun 26, 2018",I,"10,805",Canned chicken gravy products,Processing Defect
+057-2018,"Jun 29, 2018",I,3,Wasabi Chicken Wrap,Undeclared Allergen
+058-2018,"Jul 2, 2018",III,"12,946",Fully cooked pork products,Other
+059-2018,"Jul 6, 2018",III,102,Beef Jerky product,Undeclared Substance
+060-2018,"Jul 9, 2018",I,0,Raw poultry products,Other
+061-2018,"Jul 13, 2018",I,0,Raw and cooked pork and beef,Other
+062-2018,"Jul 16, 2018",I,0,Chicken Salad,Undeclared Allergen
+063-2018,"Jul 17, 2018",I,"24,048",pepperoni five cheese calzones,Extraneous Material
+064-2018,"Jul 18, 2018",I,"6,020","Ground beef, beef patty mix",E. coli
+065-2018,"Aug 3, 2018",II,"10,385",Pork egg rolls,Extraneous Material
+066-2018,"Aug 3, 2018",I,"20,000",Raw pork sausage products,Undeclared Allergen
+067-2018,"Aug 6, 2018",III,656,Pork and beef bologna,Other
+068-2018,"Aug 21, 2018",I,62,Homestyle Meatloaf,Undeclared Allergen
+069-2018,"Aug 23, 2018",I,"25,288",Ground Beef,E. coli
+070-2018,"Aug 29, 2018",I,75,Beef and Pork Meatloaf,Undeclared Allergen
+071-2018,"Aug 29, 2018",I,45,Dried Smoked Siluriformes,Other
+072-2018,"Aug 30, 2018",I,0,Ground beef chuck products,E. coli
+073-2018,"Aug 31, 2018",I,960,RTE Beef Patty Crumbles,Listeria monocytogenes
+074-2018,"Sep 4, 2018",I,"2,520",Beef Manti products,Other
+075-2018,"Sep 5, 2018",I,242,RTE Chicken Salad,Undeclared Allergen
+076-2018,"Sep 5, 2018",I,"438,960",Various RTE chicken,Extraneous Material
+077-2018,"Sep 5, 2018",II,371,Chorizo,Undeclared Substance
+078-2018,"Sep 11, 2018",I,"6,720",Philly Beef Steak,Listeria monocytogenes
+079-2018,"Sep 12, 2018",I,438,Beef dumplings,Other
+080-2018,"Sep 13, 2018",II,"46,734",Raw pork sausage links,Extraneous Material
+081-2018,"Sep 19, 2018",I,"132,606",Ground beef chuck products,E. coli
+082-2018,"Sep 20, 2018",II,"6,028",RTE Olive Loaf,Other
+083-2018,"Sep 21, 2018",II,690,RTE Teriyaki Beef Jerky Products,Extraneous Material
+084-2018,"Oct 3, 2018",I,"89,096",RTE Ham,Listeria monocytogenes
+085-2018,"Oct 3, 2018",I,"12,093,271",Raw nonintact beef,Salmonella
+086-2018,"Oct 5, 2018",I,"1,778",RTE Breaded Chicken products,Undeclared Allergen
+087-2018,"Oct 6, 2018",I,"18,296",Beef and poultry products,Listeria monocytogenes
+088-2018,"Oct 10, 2018",I,"26,323",RTE Pork Head Cheese,Listeria monocytogenes
+089-2018,"Oct 11, 2018",I,23,Chicken Jerky Products,Processing Defect
+090-2018,"Oct 11, 2018",II,"35,516",NRTE meat and poultry products,Processing Defect
+091-2018,"Oct 15, 2018",I,"30,438",RTE meat and poultry products,Other
+092-2018,"Oct 16, 2018",I,217,RTE salad with bacon,Listeria monocytogenes
+093-2018,"Oct 17, 2018",I,987,RTE salads,Listeria monocytogenes
+094-2018,"Oct 17, 2018",I,916,RTE salad and wrap products,Listeria monocytogenes
+095-2018,"Oct 17, 2018",I,276,RTE pork products,Listeria monocytogenes
+096-2018,"Oct 17, 2018",I,738,RTE salad with meat,Listeria monocytogenes
+097-2018,"Oct 19, 2018",I,"1,786",RTE salads with chicken,Listeria monocytogenes
+098-2018,"Oct 19, 2018",I,"2,490,593",Taquitos,Listeria monocytogenes
+099-2018,"Oct 19, 2018",I,"1,532",RTE salads and bowls with chicken,Listeria monocytogenes
+100-2018,"Oct 19, 2018",I,"292,764",Ready-to-Eat (RTE) chicken and beef,Listeria monocytogenes
+101-2018,"Oct 19, 2018",I,"212,746",RTE Meat and Poultry products,Listeria monocytogenes
+102-2018,"Oct 19, 2018",I,"174,207",Ready-to-Eat (RTE) chicken wrap pro,Listeria monocytogenes
+103-2018,"Oct 20, 2018",I,"795,261",RTE meat and poultry products,Listeria monocytogenes
+104-2018,"Oct 25, 2018",III,"3,904",Smoked whole chicken,Undeclared Substance
+105-2018,"Oct 26, 2018",II,"15,363",RTE Grilled chicken strips,Unapproved Substance
+106-2018,"Oct 27, 2018",I,0,NRTE meat and poultry products,Undeclared Allergen
+107-2018,"Oct 31, 2018",I,"10,200",Corned beef,Extraneous Material
+108-2018,"Oct 31, 2018",I,"3,880",Chicken Tortellini,Other
+109-2018,"Nov 6, 2018",I,"14,760",Pork patties,Extraneous Material
+110-2018,"Nov 9, 2018",I,268,Chicken Burritos,Undeclared Allergen
+111-2018,"Nov 14, 2018",I,"6,912",RTE chicken salad,Listeria monocytogenes
+112-2018,"Nov 15, 2018",I,"147,276",Raw Ground Turkey,Salmonella
+113-2018,"Nov 16, 2018",I,532,Raw ground beef products,E. coli
+114-2018,"Nov 17, 2018",I,"99,260",Raw non-intact ground beef products,E. coli
+115-2018,"Nov 19, 2018",II,"11,000",Marinated raw non-intact chicken,Undeclared Allergen
+116-2018,"Nov 20, 2018",I,0,RTE pork products,Listeria monocytogenes
+117-2018,"Nov 23, 2018",I,"65,211",Meat and poultry products,Undeclared Allergen
+118-2018,"Dec 7, 2018",I,0,Raw chicken breast product,Undeclared Allergen
+119-2018,"Dec 9, 2018",I,47,Spicey Snack Sticks,Undeclared Allergen
+120-2018,"Dec 10, 2018",I,"29,028",RTE Sausage Links,Extraneous Material
+121-2018,"Dec 13, 2018",II,"10,828",Raw intact beef products,Other
+122-2018,"Dec 15, 2018",I,"145,245",Siluriforrms,Other
+123-2018,"Dec 18, 2018",I,956,Chicken wraps,Undeclared Allergen
+124-2018,"Dec 21, 2018",I,"164,210",Raw non intact turkey products,Salmonella
+125-2018,"Dec 30, 2018",I,"11,664",RTE sausage products,Extraneous Material

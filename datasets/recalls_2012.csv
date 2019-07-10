@@ -1,0 +1,83 @@
+Recall Date,Recall Number,Recall Class,Product,Reason for Recall,Pounds Recalled
+Jan 14 2012,001-2012,I,Seasoned Diced Beef Products,Extraneous Material,"3,104"
+Jan 27 2012,002-2012,I,Beef Sirloin Products,Undeclared Allergen,"2,645"
+Jan 27 2012,003-2012,I,Julienne Salad Products,Listeria monocytogenes,118
+Feb 2 2012,004-2012,I,Chef Salad Products,Listeria monocytogenes,23
+Feb 3 2012,005-2012,I,Cobb Salad Products,Listeria monocytogenes,515
+Feb 3 2012,006-2012,I,Cobb and Spinach Salads,Listeria monocytogenes,389
+Feb 7 2012,007-2012,I,Chicken Salad Products,Listeria monocytogenes,"1,200"
+Feb 10 2012,008-2012,II,Cooked Pork Hocks,Undeclared Allergen,"25,600"
+Feb 15 2012,009-2012,I,Meat and Poultry Products,Other,Undetermined
+Feb 16 2012,010-2012,I,Chili Products,Other,"3,800"
+Feb 27 2012,011-2012,III,Country Breakfast Sausage,Undeclared Substance,200
+Mar 2 2012,012-2012,II,Frozen RTE Pizza Stick Products,Other,147
+Mar 6 2012,013-2012,II,Pizza Topping Products,Undeclared Allergen,"12,060"
+Mar 17 2012,014-2012,I,Grilled Chicken Caesar Wrap,Undeclared Allergen,"1,784"
+Mar 19 2012,015-2012,III,Pork Product,Other,"84,587"
+Mar 21 2012,016-2012,I,RTE Beef Sausage Products,Listeria monocytogenes,"2,373"
+Mar 24 2012,017-2012,I,Ground Beef Patties,E. coli O157:H7,"16,800"
+Mar 26 2012,018-2012,I,Smoked Sausage Product,Undeclared Allergen,"64,020"
+Mar 29 2012,019-2012,I,"Stuffed, Layered Beef Products",Listeria monocytogenes,"1,100"
+Mar 30 2012,020-2012,I,Chicken Products,Undeclared Allergen,187
+Mar 31 2012,021-2012,II,Chicken Apple Sausage Products,Extraneous Material,"26,136"
+Apr 3 2012,022-2012,I,Stuffed Potato Product,Undeclared Allergen,"5,400"
+Apr 6 2012,023-2012,III,Steamed BBQ Flavored Pork Buns,Undeclared Substance,"50,820"
+Apr 11 2012,024-2012,I,Ground and Tenderized Beef Products,E. coli O157:H7,"2,057"
+Apr 17 2012,025-2012,II,Frozen Entrées,Undeclared Allergen,"16,890"
+Apr 20 2012,026-2012,I,Sausage Products,Undeclared Allergen,"3,000"
+Apr 20 2012,027-2012,I,Pizza Calzone Products,Listeria monocytogenes,311
+May 10 2012,028-2012,II,Chorizo Product,Undeclared Allergen,"5,156"
+May 17 2012,029-2012,II,Beef Samosa Products,Other,"3,300"
+May 17 2012,030-2012,I,Lamb Koftis,Undeclared Allergen,"20,520"
+May 18 2012,031-2012,II,Turkey Burger Product,Undeclared Allergen,"15,040"
+May 19 2012,032-2012,II,Steakhouse Burgers,Undeclared Allergen,456
+May 22 2012,033-2012,II,Lasagna Products,Undeclared Allergen,"13,776"
+May 24 2012,034-2012,II,Smoked Bratwurst Product,Undeclared Allergen,"3,660"
+May 24 2012,035-2012,II,"Frozen, Raw Chicken Breast Product",Undeclared Allergen,100
+Jun 1 2012,036-2012,II,Raw and RTE Pork Roll Products,Undeclared Allergen,"13,200"
+Jun 2 2012,037-2012,I,RTE Pork Product,Listeria monocytogenes,400
+Jun 6 2012,038-2012,I,Meat Lasagna Products,Undeclared Allergen,"96,408"
+Jun 11 2012,039-2012,III,Pork Dumpling Products,Undeclared Substance,"55,757"
+Jun 13 2012,040-2012,I,Raw Stuffed Chicken Product,Undeclared Allergen,"3,534"
+Jun 21 2012,041-2012,III,Ground Smoked Bacon Product,Extraneous Material,"1,350"
+Jul 7 2012,042-2012,I,"Frozen, RTE Meat and Poultry Meatballs",Listeria monocytogenes,"324,770"
+Jul 13 2012,043-2012,II,Corn Chowder Soup Products,Extraneous Material,"94,850"
+Jul 19 2012,044-2012,I,"Frozen, RTE Meat and Poultry Meatballs",Listeria monocytogenes,"72,510"
+Jul 22 2012,045-2012,I,Ground Beef Products,Salmonella,"29,339"
+Jul 26 2012,046-2012,I,Chicken and Yam Pie Products,Undeclared Allergen,79
+Jul 27 2012,047-2012,I,Barbeque Chicken Salads,Listeria monocytogenes,"5,610"
+Jul 27 2012,048-2012,I,RTE Chipotle Chicken Wrap Products,Listeria monocytogenes,735
+Jul 27 2012,049-2012,I,Sausage Products,Listeria monocytogenes,314
+Jul 27 2012,050-2012,II,Canned Premium Chunk Chicken,Undeclared Allergen,"70,500"
+Aug 1 2012,051-2012,I,Meat and Poultry Salad Products,Listeria monocytogenes,"13,600"
+Aug 2 2012,052-2012,II,Frozen Bacon Cheeseburger Patties,Extraneous Material,"37,600"
+Aug 5 2012,053-2012,I,RTE Meat and Poultry Products,Listeria monocytogenes,"15,880"
+Aug 6 2012,054-2012,III,Chorizo Sausage,Undeclared Substance,"6,210"
+Aug 14 2012,055-2012,I,Beef Products,E. coli O157:H7,"38,200"
+Aug 15 2012,056-2012,II,Meat and Poultry Soup Products,Extraneous Material,"4,100"
+Aug 15 2012,057-2012,II,Turkey Sausage with Cheddar Cheese Products,Extraneous Material,"48,000"
+Aug 16 2012,058-2012,III,Frozen Boneless Rib-Shaped Patties with BBQ Sauce,Other,605
+Aug 16 2012,059-2012,I,Grilled Chicken Caesar Salad Kits,Salmonella,"77,688"
+Aug 30 2012,060-2012,III,Frozen Bratwurst Patties,Extraneous Material,"2,920"
+Sep 14 2012,061-2012,II,Crunchy Chicken Strip Products,Extraneous Material,"2,250"
+Sep 21 2012,062-2012,I,Bratwurst Sausage Products,Undeclared Allergen,"1,305"
+Sep 28 2012,063-2012,I,Corn Dog Products,Undeclared Allergen,"16,576"
+Oct 5 2012,064-2012,II,Chicken Quesadilla Product,Undeclared Allergen,"3,744"
+Oct 10 2012,065-2012,I,Boneless Chicken Wyngz,Undeclared Allergen,"67,269"
+Oct 15 2012,066-2012,I,Various Beef and Pork Products,Other,"8,200"
+Oct 22 2012,067-2012,III,Maple Sausage Links and Patties,Undeclared Substance,"1,768,600"
+Oct 22 2012,068-2012,I,Ground Beef Products,E. coli O157:H7,"2,310"
+Oct 22 2012,069-2012,I,Ground Beef Products,E. coli O157:H7,"4,100"
+Oct 30 2012,070-2012,II,Frozen Chicken Enchilada Products,Extraneous Material,"11,400"
+Nov 1 2012,071-2012,I,Chicken Breast Nugget Products,Undeclared Allergen,"1,440"
+Nov 2 2012,072-2012,II,"Frozen, Fully Cooked Chicken Products",Extraneous Material,"28,528"
+Nov 9 2012,073-2012,II,Beef Tongue Products,Other,99
+Nov 13 2012,074-2012,I,Bourbon Barbecue Sausage Products,Processing Defect,"90,975"
+Nov 20 2012,075-2012,III,Kielbasa Products,Extraneous Material,"16,100"
+Nov 21 2012,076-2012,III,Chicken Empanadas,Undeclared Substance,"1,331"
+Nov 29 2012,077-2012,III,Jalapeño Vienna Sausage Products,Undeclared Substance,271
+Dec 4 2012,078-2012,I,RTE Beef and Cheese Pie Products,Other,"2,375"
+Dec 6 2012,079-2012,II,Breaded Chicken Products,Extraneous Material,"35,800"
+Dec 14 2012,080-2012,I,Mortadella,Undeclared Allergen,"2,650"
+Dec 21 2012,081-2012,I,Pigs in the Blanket Products,Undeclared Allergen,"6,039"
+Dec 21 2012,082-2012,I,Frozen Honey BBQ Chicken Wing Products,Undeclared Allergen,"2,320"
