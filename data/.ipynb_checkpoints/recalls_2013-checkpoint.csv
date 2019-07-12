@@ -1,0 +1,76 @@
+Recall Date,Recall Number,Recall Class,Product,Reason for Recall,Pounds Recalled
+Jan 15 2013,001-2013,I,Ground Beef Products,E. coli O157:H7,"2,532"
+Jan 17 2013,002-2013,I,Poultry Products,Other,"2,764"
+Jan 18 2013,003-2013,I,Chicken Nuggets,Undeclared Allergen,"1,572"
+Jan 19 2013,004-2013,I,Cooked Meat and Poultry Products,Listeria monocytogenes,"33,500"
+Jan 22 2013,005-2013,III,Marinated Pork and Chicken Products,Undeclared Substance,"79,400"
+Jan 23 2013,006-2013,II,Frozen Pizza,Extraneous Material,Undetermined
+Jan 24 2013,007-2013,I,Head Cheese,Salmonella,"4,700"
+Jan 24 2013,008-2013,I,Ground Beef,Salmonella,500
+Jan 25 2013,009-2013,I,Ground Beef,Salmonella,550
+Jan 25 2013,010-2013,I,Chicken Fried Chicken Breasts,Extraneous Material,"1,200"
+Jan 28 2013,011-2013,II,Beef Jerky,Undeclared Allergen,213
+Jan 30 2013,012-2013,I,Veal Trimmings,E. coli O157:H7,"1,260"
+Jan 31 2013,013-2013,II,Tamales,Undeclared Allergen,685
+Feb 02 2013,014-2013,I,Liver Pâté,Undeclared Allergen,"4,454"
+Feb 08 2013,015-2013,I,Country Fried Steaks,Extraneous Material,"15,328"
+Feb 14 2013,016-2013,I,Roast Beef,Listeria monocytogenes,315
+Feb 21 2013,017-2013,II,Mild Pork Sausage Roll,Extraneous Material,"38,000"
+Feb 27 2013,018-2013,II,Chicken Sausage Product,Extraneous Material,"8,424"
+Mar 02 2013,019-2013,I,Ham Products,Other,"6,586"
+Mar 06 2013,020-2013,II,Bolognese Sauce,Undeclared Allergen,"25,000"
+Mar 12 2013,021-2013,I,Chicken Sausages,Listeria monocytogenes,"6,120"
+Mar 15 2013,022-2013,I,Pork Products,Other,"2,433"
+Mar 15 2013,023-2013,III,Ground Beef,Extraneous Material,"5,820"
+Mar 25 2013,024-2013,II,Bone-in Ribeye,Other,"15,270"
+Mar 28 2013,025-2013,I,Frozen Meal and Snack Products,E. coli O121,"10,500,000"
+Apr 02 2013,026-2013,I,Breaded Chicken Products,Undeclared Allergen,"127,000"
+Apr 10 2013,027-2013,II,Pork Jerky,Undeclared Allergen,"1,133"
+Apr 10 2013,028-2013,I,RTE Deli Meats,Listeria monocytogenes,"468,000"
+May 01 2013,029-2013,I,Frozen Pasta Products,Other,"25,000"
+May 02 2013,030-2013,I,Chorizo and Mozzarella Roll,Undeclared Allergen,234
+May 02 2013,031-2013,I,Frozen Pizzas,Extraneous Material,"97,000"
+May 02 2013,032-2013,I,RTE Meatballs,Listeria monocytogenes,123
+May 07 2013,033-2013,I,Pork Sausages,Other,200
+May 10 2013,034-2013,I,Stew Products,Undeclared Allergen,"17,037"
+May 10 2013,035-2013,I,Pork Pies,Undeclared Allergen,"1,471"
+May 21 2013,036-2013,II,RTE Grilled Chicken Strips,Undeclared Allergen,"6,165"
+Jun 03 2013,037-2013,I,Beef Lasagna,Undeclared Allergen,"2,025"
+Jun 12 2013,038-2013,I,BBQ Flavored Ranch Salad with Chicken,Undeclared Allergen,678
+Jun 12 2013,039-2013,II,Beef Jerky,Undeclared Allergen,"1,800"
+Jun 18 2013,040-2013,I,Ground Beef,E. coli O157:H7,"22,737"
+Jun 19 2013,041-2013,II,Mechanically Separated Chicken,Extraneous Material,"18,000"
+Jun 26 2013,042-2013,II,Blue Cheese Chicken Dip Products,Undeclared Allergen,"12,560"
+Jul 31 2013,043-2013,I,Ground Beef,E. coli O157:H7,"50,100"
+Jul 31 2013,044-2013,I,Frozen Chicken Meals,Undeclared Allergen,"2,486"
+Aug 09 2013,045-2013,I,Boneless Veal,"E. coli O157:H7, E. coli O145, E. coli O45","12,600"
+Aug 23 2013,046-2013,II,Cured Pork Products,Undeclared Allergen,"69,123"
+Aug 28 2013,047-2013,I,Beef Jerky,Processing Defect,109
+Aug 28 2013,048-2013,I,Beef Pattie and Chub Products,Undeclared Allergen,"116,404"
+Aug 30 2013,049-2013,I,Spaghettios,Undeclared Allergen,"1,740"
+Sep 06 2013,050-2013,I,Calzones,Undeclared Allergen,"1,650"
+Sep 12 2013,051-2013,I,Beef Tongue Root Filet Products,E. coli O157:H7,690
+Sep 13 2013,052-2013,I,Provance French Puff Pastry Product,Undeclared Allergen,420
+Sep 16 2013,053-2013,I,Ravioli Products,Other,"169,655"
+Sep 19 2013,054-2013,I,Ground Beef,Extraneous Material,"58,240"
+Sep 25 2013,055-2013,I,RTE Chicken and Ham Products,Other,"132,950"
+Sep 27 2013,056-2013,II,Frozen Pizza Products,Undeclared Allergen,"17,194"
+Oct 01 2013,057-2013,III,Ground Beef,Extraneous Material,"89,720"
+Oct 12 2013,058-2013,I,Rotisserie Chicken Products,Salmonella,"39,755"
+Oct 22 2013,059-2013,I,Various RTE Products,Listeria monocytogenes,"22,800"
+Oct 22 2013,060-2013,I,Ground Beef,E. coli O157:H7,Undetermined
+Oct 24 2013,061-2013,I,RTE Chicken Salad Products,Listeria monocytogenes,"222,959"
+Oct 25 2013,062-2013,I,RTE Broccoli Salad Kits,Listeria monocytogenes,"27,933"
+Oct 26 2013,063-2013,II,Salami Products,Other,"13,118"
+Nov 07 2013,064-2013,III,Chicken Sausage,Undeclared Substance,809
+Nov 10 2013,065-2013,I,RTE Salads and Wraps,E. coli O157:H7,"181,620"
+Nov 13 2013,066-2013,I,Poultry Products,Other,251
+Nov 22 2013,067-2013,II,RTE Pork Roast Products,Other,101
+Nov 22 2013,068-2013,I,Chicken Fettuccine Alfredo Products,Undeclared Allergen,"156,924"
+Nov 22 2013,069-2013,I,Bolognese Sauce Products,Undeclared Allergen,"5,616"
+Nov 27 2013,070-2013,III,"Smoked, Uncured Hams",Other,"3,536"
+Dec 06 2013,071-2013,I,Prosciutto Ham Product,Listeria monocytogenes,"2,600"
+Dec 06 2013,072-2013,II,Chicken Noodle Soup,Undeclared Allergen,"22,368"
+Dec 09 2013,073-2013,I,Meat and Poultry Products,Other,"90,000"
+Dec 19 2013,074-2013,I,Dried Sausage Products,Processing Defect,740
+Dec 20 2013,075-2013,I,"Frozen, Raw Chicken Products",Other,"24,784"

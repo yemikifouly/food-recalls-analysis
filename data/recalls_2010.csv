@@ -1,0 +1,72 @@
+Recall Date,Recall Number,Recall Class,Product,Reason for Recall,Pounds Recalled
+Jan 09 2010,001-2010,I,Pork Skin Products,Undeclared Allergen,205
+Jan 11 2010,002-2010,I,Beef Products,E. coli O157:H7,"2,574"
+Jan 15 2010,003-2010,II,Beef Carcass,Other,490
+Jan 18 2010,004-2010,I,Beef Products,E. coli O157:H7,"864,000"
+Jan 20 2010,005-2010,I,Frozen Chicken Pot Pie Products,Extraneous Material,"19,200"
+Jan 23 2010,006-2010,I,Italian Sausage Products,Salmonella,"1,395,989"
+Jan 27 2010,007-2010,II,Instant Noodle Products,Other,"50,000"
+Feb 02 2010,008-2010,I,Boneless Beef Products,E. coli O157:H7,"14,000"
+Feb 05 2010,009-2010,II,Pork Barbecue Products,Undeclared Allergen,"2,850"
+Feb 10 2010,010-2010,II,Frozen Cured Pork Patty Mix,Undeclared Allergen,750
+Feb 10 2011,011-2010,II,RTE Sausage Products,Extraneous Material,"1,485"
+Feb 12 2010,012-2010,II,Frozen Turkey Patty Products,Undeclared Allergen,"16,290"
+Feb 12 2010,004-2010 Expansion,I,Beef and Veal Products,Other,"4,900,000"
+Mar 02 2010,013-2010,I,Beef Products,E. coli O157:H7,"96,000"
+Mar 08 2010,014-2010,III,Baken-ets Fried Pork Skins,Undeclared Substance,186
+Mar 08 2011,015-2010,I,RTE Bacon Base Product,Salmonella,"6,000"
+Mar 09 2010,016-2010,I,RTE Beef Product,Salmonella,"115,700"
+Mar 09 2011,017-2010,I,RTE Beef Taquitos and Chicken Quesadilla Products,Salmonella,"1,700,000"
+Mar 11 2010,018-2010,I,Chicken Products,Other,Undetermined
+Mar 12 2010,019-2010,I,Enchilada Products,Undeclared Allergen,"9,400"
+Mar 13 2010,020-2010,I,Asian-Style Meat and Poultry Products,Other,"12,382"
+Mar 19 2010,021-2010,II,Italian Turkey Sausage Products,Undeclared Allergen,"10,368"
+Apr 04 2010,022-2010,I,Ham Products,Listeria monocytogenes,100
+Apr 05 2010,023-2010,II,Whole Beef Heads,Other,"25,000"
+Apr 17 2010,024-2010,II,Fully Cooked Assorted Meat Products,Undeclared Allergen,"140,000"
+Apr 21 2010,025-2010,I,Beef Trim Products,E. coli O157:H7,"135,500"
+Apr 29 2010,026-2010,I,Brunswick Stew Products,Undeclared Allergen,414
+May 01 2010,027-2010,I,Fully Cooked Crumbled Pork Sausage Products,Listeria monocytogenes,460
+May 04 2010,028-2010,I,Prosciutto Products,Listeria monocytogenes,822
+May 05 2010,029-2010,I,Prosciutto Products,Listeria monocytogenes,70
+May 05 2010,030-2010,II,Buffalo Style Chicken Salad Products,Extraneous Material,40
+May 07 2010,031-2010,II,Fully Cooked Mini Pretzel Dog Products,Other,"49,600"
+May 12 2010,032-2010,I,Chicken and Beef Puff Products,Undeclared Allergen,250
+May 14 2010,033-2010,II,Imported Beef Products,Residue,"87,000"
+May 15 2010,034-2010,I,Ground Beef Products,E. coli O157:H7,"53,000"
+Jun 17 2010,035-2010,I,SpaghettiOs with Meatballs,Processing Defect,"15,000,000"
+Jun 17 2010,036-2010,I,Cheesy Chicken And Rice Frozen Meals,Salmonella,"6,740,000"
+Jun 22 2010,037-2010,I,Ground Beef Products,E. coli O157:H7,"3,700"
+Jun 22 2010,038-2010,I,Ground Beef Products,E. coli O157:H7,"35,000"
+Jun 24 2010,039-2010,II,Cooked Canned and Frozen Beef Products,Residue,"61,000"
+Jun 25 2010,040-2010,II,BBQ Chicken Pizza Products,Extraneous Material,"109,800"
+Jun 30 2010,041-2010,III,Beef Stroganoff with Noodles,Misbranding,600
+Jun 30 2010,042-2010,I,Cervelat Summer Sausage,Undeclared Allergen,"9,408"
+Jul 02 2010,043-2010,I,Ground and Tenderized Steak Bison Products,E. coli O157:H7,"66,776"
+Jul 06 2010,044-2010,II,Beef Jerky Products,Undeclared Allergen,"8,000"
+Jul 07 2010,045-2010,I,Fully Cooked Turkey Breast Products,Listeria monocytogenes,17
+Jul 19 2010,046-2010,II,Frozen Chicken Nugget Products,Extraneous Material,"91,872"
+Aug 03 2010,047-2010,I,Canned Meatball Products,Undeclared Allergen,"147,667"
+Aug 06 2010,048-2010,I,Frozen Ground Beef Patties and Bulk Ground Beef Products,E. coli O157:H7,"1,000,000"
+Aug 23 2010,049-2010,I,Deli Meat Products,Listeria monocytogenes,"380,000"
+Aug 28 2010,050-2010,I,Ground Beef Products,E. coli O26*,"8,500"
+Sep 01 2010,051-2010,I,Cooked Shredded Pork Skin Products,Other,"2,070"
+Sep 13 2010,052-2010,III,Cooked Beef Products,Other,"258,000"
+Sep 24 2010,053-2010,II,Cured Uncooked Pork Ginger Sausage,Undeclared Allergen,"29,893"
+Oct 04 2010,054-2010,III,Spicy Vegetable Potstickers,Misbranding,"1,608"
+Oct 20 2010,055-2010,I,RTE Pork Barbecue Products,Salmonella,"4,920"
+Oct 22 2010,056-2010,II,Beef Stick Products,Extraneous Material,"2,740"
+Oct 27 2010,057-2010,II,RTE Pork Products,Other,"54,000"
+Nov 04 2010,058-2010,I,Canned Meat and Poultry Products,Processing Defect,"12,086"
+Nov 05 2010,059-2010,I,RTE Chicken Pasta Salad Products,Salmonella,"7,325"
+Nov 14 2010,060-2010,I,Fully Cooked RTE Smoked Turkey Breast Products,Listeria monocytogenes,"2,609"
+Nov 23 2010,061-2010,I,Meat and Cheese Roll Appetizer Products,Listeria monocytogenes,57
+Dec 02 2010,062-2010,I,Various Meat and Poultry Products,Other,Undetermined
+Dec 03 2010,063-2010,I,Chicken Tamales,Undeclared Allergen,"41,670"
+Dec 05 2010,064-2010,II,Canned Chicken Salad Products,Extraneous Material,"72,000"
+Dec 08 2010,065-2010,II,Raw Pork Paste & RTE Fried Pork Loaf Products,Undeclared Allergen,"2,182"
+Dec 10 2010,066-2010,I,Sautéed Chicken Products,Undeclared Allergen,"14,430"
+Dec 17 2010,067-2010,II,Ground Beef Products,Other,"25,600"
+Dec 29 2010,068-2010,II,Teriyaki Beef Jerky Products,Undeclared Allergen,"3,874"
+Dec 30 2010,069-2010,I,Breaded Chicken Wing Products,Undeclared Allergen,"180,000"
+Dec 30 2010,070-2010,I,Organic Ground Beef Products,E. coli O157:H7,"34,373"
