@@ -23,9 +23,17 @@ def extract_col_names_groups(df_dict):
     grouped_cols
     return grouped_cols
 
-def display_columns_by_df(df_dict):
+def display_columns_by_df(df_dict, dtype=False):
     years = df_dict.keys()
     rows = []
+    
+    if dtype:      
+        cols = df_dict[list(years)[0]].columns
+        for year, df in df_dict.items():
+            to_append = [np.dtype(df[col]).name for col in df.columns]
+            rows.append(to_append)
+        return pd.DataFrame(rows, index=years, columns=cols)
+    
     for year, df in df_dict.items():
         rows.append(list(df.columns))
     return pd.DataFrame(rows, index=years)
