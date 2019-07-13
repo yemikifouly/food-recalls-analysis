@@ -1,5 +1,14 @@
 import numpy as np
 import pandas as pd
+import re
+
+def load_data(root, filenames, pattern):
+    dfs = {}
+    for filename in filenames:
+        key = re.findall(pattern, filename)[0]
+        year = int(key)
+        dfs[year] = pd.read_csv(root + '/' + filename)
+    return dfs
 
 def get_samples_from_groups(grouped):
     randint = np.random.randint
@@ -37,3 +46,12 @@ def display_columns_by_df(df_dict, dtype=False):
     for year, df in df_dict.items():
         rows.append(list(df.columns))
     return pd.DataFrame(rows, index=years)
+
+def get_column_entries_groups(df, column, pattern):
+    entries, entries_type = df[column].astype(str), {}
+    for entry in entries:
+        if re.search(pattern, entry):
+            entries_type['Number'] = 1 if 'Number' not in entries_type.keys() else entries_type['Number'] + 1
+        else:
+            entries_type[entry] = 1 if entry not in entries_type.keys() else entries_type[entry] + 1
+    return entries_type
