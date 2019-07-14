@@ -8,3 +8,11 @@ The data used for the project was obtained from [the website of the United State
 To run the code locally, do:
 
 ```git clone https://github.com/yemikifouly/us-2005-to-2018-food-recalls-analysis.git```
+
+## Contribution
+
+This is a project mainly designed to get me to practice what I have been learning. You might go through it and see plenty of rookies mistake. Please make a `pull` request and add those modifications to the `suggestions` branch. 
+
+I am happy and impatient to learn from you. 
+
+Thank you.
