@@ -11,8 +11,8 @@ To run the code locally, do:
 
 ## Contribution
 
-This is a project mainly designed to get me to practice what I have been learning. You might go through it and see plenty of rookies mistake. Please make a `pull` request and add those modifications to the `suggestions` branch. 
+This is a project mainly designed to get me to practice what I have been learning. You might go through it and see plenty of rookies mistake. Please make a `pull` request, create a new branch and ass those changes on the new branch. 
 
-I am happy and impatient to learn from you. 
+I am looking forward to learning from you. 
 
 Thank you.
