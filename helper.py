@@ -55,3 +55,12 @@ def get_column_entries_groups(df, column, pattern):
         else:
             entries_type[entry] = 1 if entry not in entries_type.keys() else entries_type[entry] + 1
     return entries_type
+
+def get_recall_reasons_summary(df_dict):
+    rows = []
+    for year, df in df_dict.items():
+        recall_reasons_value_counts = pd.DataFrame(df['Recall Reason'].value_counts()).rename({'Recall Reason': str(year)}, axis=1).transpose()
+        rows.append(recall_reasons_value_counts)
+    recall_reasons_summary = pd.concat(rows, sort=False)
+    recall_reasons_summary = recall_reasons_summary.fillna(0).astype('int64')
+    return recall_reasons_summary
