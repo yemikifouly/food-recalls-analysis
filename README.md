@@ -7,7 +7,7 @@ The data used for the project was obtained from [the website of the United State
 
 To run the code locally, do:
 
-```git clone https://github.com/yemikifouly/us-2005-to-2018-food-recalls-analysis.git```
+```git clone https://github.com/yemikifouly/food-recalls-analysis.git```
 
 ## Contribution
 
